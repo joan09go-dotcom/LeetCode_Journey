@@ -12,12 +12,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0076-minimum-window-substring) |
+| [0567-permutation-in-string](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0076-minimum-window-substring) |
+| [0567-permutation-in-string](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0076-minimum-window-substring) |
+| [0567-permutation-in-string](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0567-permutation-in-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
