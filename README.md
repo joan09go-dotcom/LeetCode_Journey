@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0567-permutation-in-string) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
