@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0041-first-missing-positive) |
+| [0643-maximum-average-subarray-i](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
