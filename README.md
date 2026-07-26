@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0567-permutation-in-string) |
 ## Greedy
