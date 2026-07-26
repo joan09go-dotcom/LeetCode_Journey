@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0076-minimum-window-substring) |
+| [0205-isomorphic-strings](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0205-isomorphic-strings) |
 | [0567-permutation-in-string](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0205-isomorphic-strings) |
 | [0567-permutation-in-string](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
