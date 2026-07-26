@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0205-isomorphic-strings) |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0347-top-k-frequent-elements) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
