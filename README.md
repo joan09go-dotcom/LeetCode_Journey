@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0643-maximum-average-subarray-i) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0424-longest-repeating-character-replacement) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0643-maximum-average-subarray-i) |
