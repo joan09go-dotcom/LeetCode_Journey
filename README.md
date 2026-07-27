@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0009-palindrome-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/joan09go-dotcom/LeetCode_Journey/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
